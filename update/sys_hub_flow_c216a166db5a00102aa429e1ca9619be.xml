@@ -6,6 +6,7 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
+        <compiler_build/>
         <copied_from/>
         <copied_from_name/>
         <description>Steps to approve and fulfill NeedIt requests.</description>
@@ -14,6 +15,7 @@
         <latest_snapshot/>
         <master_snapshot>d73a65aadb5a00102aa429e1ca96198f</master_snapshot>
         <name>NeedIt Fulfillment</name>
+        <natlang/>
         <outputs/>
         <remote_trigger_id>db3a65aadb5a00102aa429e1ca9619bf</remote_trigger_id>
         <run_as>system</run_as>
@@ -25,6 +27,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:10:35</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c216a166db5a00102aa429e1ca9619be</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name>NeedIt Fulfillment</sys_name>
@@ -55,14 +58,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>db3a65aadb5a00102aa429e1ca9619bf</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
         <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:39:20</sys_updated_on>
         <table>x_58872_needit_needit</table>
@@ -84,11 +84,7 @@
         <sys_created_on>2020-01-15 09:48:27</sys_created_on>
         <sys_id>64cee1eedb5a00102aa429e1ca9619db</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:48:27</sys_updated_on>
         <ui_id>806e368d-0e64-47e3-b61b-badffc47eb84</ui_id>
@@ -239,11 +235,7 @@
         <sys_created_on>2020-01-15 09:17:34</sys_created_on>
         <sys_id>9cb7eda6db5a00102aa429e1ca961926</sys_id>
         <sys_mod_count>20</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:48:27</sys_updated_on>
         <ui_id>d64592ad-e44a-4658-8969-b3ac2c744e99</ui_id>
@@ -385,16 +377,11 @@
         <flow display_value="NeedIt Fulfillment">c216a166db5a00102aa429e1ca9619be</flow>
         <name>Created</name>
         <remote_sys_id/>
-        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:17:34</sys_created_on>
         <sys_id>5cb7eda6db5a00102aa429e1ca961923</sys_id>
         <sys_mod_count>8</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:48:27</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
@@ -435,16 +422,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>c216a166db5a00102aa429e1ca9619be</id>
         <name>NeedIt Fulfillment</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:10:35</sys_created_on>
         <sys_id>c216a166db5a00102aa429e1ca9619bf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:10:35</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -628,11 +610,7 @@
         <sys_created_on>2020-01-15 09:48:27</sys_created_on>
         <sys_id>64cee1eedb5a00102aa429e1ca9619db</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:48:27</sys_updated_on>
         <ui_id>806e368d-0e64-47e3-b61b-badffc47eb84</ui_id>
@@ -783,11 +761,7 @@
         <sys_created_on>2020-01-15 09:17:34</sys_created_on>
         <sys_id>9cb7eda6db5a00102aa429e1ca961926</sys_id>
         <sys_mod_count>20</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:48:27</sys_updated_on>
         <ui_id>d64592ad-e44a-4658-8969-b3ac2c744e99</ui_id>
@@ -975,18 +949,14 @@
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"d73a65aadb5a00102aa429e1ca9619c0","name":"plan"}}</plan>
         <plan_id>c216a166db5a00102aa429e1ca9619be</plan_id>
         <snapshot>f56ce92edb5a00102aa429e1ca9619de</snapshot>
-        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d73a65aadb5a00102aa429e1ca9619c0</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
         <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:37:28</sys_updated_on>
         <trigger display_value="">db3a65aadb5a00102aa429e1ca9619bf</trigger>
@@ -1005,6 +975,7 @@
         <label_cache>[{"name":"Created_1.current","label":"Trigger➛NeedIt Record","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"reference","base_type":"reference"},{"name":"d64592ad-e44a-4658-8969-b3ac2c744e99.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"d64592ad-e44a-4658-8969-b3ac2c744e99.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
         <master>true</master>
         <name>NeedIt Fulfillment</name>
+        <natlang/>
         <outputs/>
         <parent_flow display_value="NeedIt Fulfillment">c216a166db5a00102aa429e1ca9619be</parent_flow>
         <remote_trigger_id/>
@@ -1015,6 +986,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d73a65aadb5a00102aa429e1ca96198f</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name/>
@@ -1046,11 +1018,7 @@
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_id>1f3a65aadb5a00102aa429e1ca9619a6</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:37:27</sys_updated_on>
         <ui_id>d64592ad-e44a-4658-8969-b3ac2c744e99</ui_id>
@@ -1136,11 +1104,7 @@
         <sys_created_on>2020-01-15 09:37:27</sys_created_on>
         <sys_id>673c292edb5a00102aa429e1ca96192a</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:37:28</sys_updated_on>
         <ui_id>3f73d9c7-2ad4-4093-bd53-4e695e38f952</ui_id>
@@ -1167,16 +1131,11 @@
         <flow display_value="NeedIt Fulfillment">d73a65aadb5a00102aa429e1ca96198f</flow>
         <name>Created</name>
         <remote_sys_id/>
-        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_id>1f3a65aadb5a00102aa429e1ca9619a8</sys_id>
         <sys_mod_count>5</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:37:28</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
@@ -1217,16 +1176,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>d73a65aadb5a00102aa429e1ca96198f</id>
         <name>NeedIt Fulfillment</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_id>9f3a65aadb5a00102aa429e1ca96198f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:28:42</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -1410,11 +1364,7 @@
         <sys_created_on>2020-01-15 09:28:42</sys_created_on>
         <sys_id>1f3a65aadb5a00102aa429e1ca9619a6</sys_id>
         <sys_mod_count>6</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:37:27</sys_updated_on>
         <ui_id>d64592ad-e44a-4658-8969-b3ac2c744e99</ui_id>
@@ -1500,11 +1450,7 @@
         <sys_created_on>2020-01-15 09:37:27</sys_created_on>
         <sys_id>673c292edb5a00102aa429e1ca96192a</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-01-15 09:37:28</sys_updated_on>
         <ui_id>3f73d9c7-2ad4-4093-bd53-4e695e38f952</ui_id>
